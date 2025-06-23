@@ -12,7 +12,7 @@ A simple React-based counter application
 
 ## Technologies Used
 
-- React
+- React/n
 -Tailwind CSS (for styling)
 
 ## Installation
